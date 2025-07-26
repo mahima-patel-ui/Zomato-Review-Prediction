@@ -23,7 +23,31 @@ This machine learning project analyzes restaurant metadata and reviews from Zoma
 
 ## 📷 Visuals
 Included charts for:
-- Top cuisines
+- Top cuisinesScreenshot (108).png
+Add files via upload
+1 minute ago
+Screenshot (109).png
+Add files via upload
+1 minute ago
+Screenshot (110).png
+Add files via upload
+1 minute ago
+Screenshot (111).png
+Add files via upload
+1 minute ago
+Screenshot (112).png
+Add files via upload
+1 minute ago
+Screenshot (113).png
+Add files via upload
+1 minute ago
+Screenshot (114).png
+Add files via upload
+1 minute ago
+Screenshot (115).png
+Add files via upload
+1 minute ago
+
 - Review length distribution
 - Cost comparison
 - Clustering groups
